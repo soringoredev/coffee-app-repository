@@ -1,2 +1,2 @@
-public class ConcentrationException {
+public class ConcentrationException extends Exception {
 }
